@@ -1,0 +1,3 @@
+pychromecast
+python-dotenv
+google-api-python-client
